@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Final%20stylesheet2.css"?>
+<personalLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="final%20project%20schema2.xsd">
+    <head1>Josie's Library Catalogue</head1>
+    <intro>I created this catalogue to keep track of my personal collection of books. It's divided into two sections: Fiction and Non-Fiction. All of my fictional books are organized by author, and all of my non-fictional books are organized into subjects and sub-subjects.</intro>
+    <intro>This content is under a CC BY 4.0 International Licence. Under the terms of this licence, you can share, edit, remix, and revise this content as long as you provide attribution and describe any changes you may have made. "Josie's Library Catalogue" by Josie Gray is under a CC BY 4.0 International Licence.</intro>
+    <fiction>
+        <head>Fiction</head>
+        <!-- C -->
+        <author>
+            <authorName>
+                <firstName>Kristen</firstName>
+                <lastName>Cashore</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>Graceling Realm</seriesname>
+                    <summary>While these books aren't directly connected, they all take place in the same universe with some overlapping characters.</summary>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                    </subjectList>
+                    <book>
+                        <title>Graceling</title>
+                        <rating>5 - Favourite</rating>
+                        <summary>Katsa is graced with the ability to kill. As the king's neice, she is used as a tool of the realm, diciplining nobles who resist the king's demands. However, her resistance to her uncle's demands slowly grows.</summary>
+                        <notes>
+                            <p>I have an audiobook for this book on Itunes.</p>
+                        </notes>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>4</timesRead>
+                        <subjectList>
+                            <subject>martial arts</subject>
+                            <subject>survival</subject>
+                            <subject>rebillion</subject>
+                            <subject>mind control</subject>
+                        </subjectList>
+                    </book>
+                    <book>
+                        <title>Fire</title>
+                        <rating>4 - Really liked, would read again</rating>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                    <book>
+                        <title>Bitterblue</title>
+                        <rating>4 - Really liked, would read again</rating>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Lydia</firstName>
+                <lastName>Chukovskaya</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Sofia Petrovna</title>
+                    <summary>A novella describing life in the Soviet Union during the Great Purge. It is one of the few surviving accounts of this event that was actually written during the puge era.</summary>
+                    <notes>
+                        <p>This book was assigned by Dr. Dolf in his History of the Soviet Union class. I don't think I actually read it.</p>
+                    </notes>
+                    <location>Victoria</location>
+                    <subjectList>
+                        <subject>historical fiction</subject>
+                        <subject>Soviet Union</subject>
+                        <subject>Great Purges</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Cassandra</firstName>
+                <lastName>Claire</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>The Mortal Instruments</seriesname>
+                    <rating>3 - Like, but probably won't read again</rating>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                    </subjectList>
+                    <book>
+                        <title>City of Bones</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>City of Ashes</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>City of Glass</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>City of Fallen Angels</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>City of Lost Souls</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>City of Heavenly Fire</title>
+                        <location>Victoria</location>
+                    </book>
+                </series>
+                <series>
+                    <seriesname>The Infernal Devices</seriesname>
+                    <book>
+                        <title>Clockwork Angel</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>Clockwork Prince</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>Clockwork Princess</title>
+                        <location>Port Edward</location>
+                    </book>
+                </series>
+                <series>
+                    <seriesname>The Dark Artifices</seriesname>
+                    <book>
+                        <title>Lady Midnight</title>
+                        <location>Port Edward</location>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Suzanne</firstName>
+                <lastName>Collins</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>The Hunger Games</seriesname>
+                    <rating>4 - Really liked, would read again</rating>
+                    <summary>Katniss Everdeen lives in the future, post-apocalyptic nation of Panem in North America. The Capitol, a highly advanced metropolis, exercises political control over the rest of the nation. The Hunger Games is an annual event in which one boy and one girl aged 12–18 from each of the twelve districts surrounding the Capitol are selected by lottery to compete in a televised battle to the death. Source: "The Hunger Games" summary (https://en.wikipedia.org/wiki/The_Hunger_Games_(novel)) by Wikipedia is used under a CC BY-SA Unported Licence https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                    <subjectList>
+                        <subject>dystopian</subject>
+                    </subjectList>
+                    <book>
+                        <title>The Hunger Games</title>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                    <book>
+                        <title>Catching Fire</title>
+                        <summary>Katniss learns that her defiance in the previous novel has started a chain reaction that has inspired rebellion in the districts. President Snow threatens to harm Katniss' family and friends if she does not help to defuse the unrest in the districts and marry Peeta. Source: "Catching Fire" summary (https://en.wikipedia.org/wiki/The_Hunger_Games#Catching_Fire) by Wikipedia is used under a CC BY-SA Unported Licence https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                    <book>
+                        <title>Mockingjay</title>
+                        <summary>Katniss Everdeen agrees to unify the districts of Panem in a rebellion against the tyrannical Capitol. Source: "Mockingjay" summary (https://en.wikipedia.org/wiki/Mockingjay) by Wikipedia is used under a CC BY-SA Unported Licence https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <!-- D -->
+        <author>
+            <authorName>
+                <firstName>Emma</firstName>
+                <lastName>Donoghue</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Room</title>
+                    <rating>3 - Like, but probably won't read again</rating>
+                    <summary>The story is told from the perspective of a five-year-old boy, Jack, who is being held captive in a small room along with his mother. "Room (novel)" summary (https://en.wikipedia.org/wiki/Room_(novel)) by Wikipedia is used under a CC BY-SA 3.0 Unported Licence (https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                    <location>Victoria</location>
+
+                    <lastRead>July 2017</lastRead>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>captivity</subject>
+                        <subject>rape</subject>
+                        <subject>escape</subject>
+                        <subject>recovery</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Jennifer</firstName>
+                <lastName>Donnelly</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>A Northern Light</title>
+                    <rating>4 - Really liked, would read again</rating>
+                    <location>Victoria</location>
+
+                    <lastRead>July 2017</lastRead>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>historical fiction</subject>
+                        <subject>murder mystery</subject>
+                        <subject>poverty</subject>
+                    </subjectList>
+                </book>
+                <book>
+                    <title>Revolution</title>
+                    <rating>4 - Really liked, would read again</rating>
+                    <notes>
+                        <p>This was one of my favourite books growing up. "Mad I may be, but I will never be convienent.</p>
+                    </notes>
+                    <location>Port Edward</location>
+                    <lastRead>Unknown</lastRead>
+                    <timesRead>3</timesRead>
+                    <subjectList>
+                        <subject>French Revolution</subject>
+                        <subject>historical fiction</subject>
+                        <subject>time travel</subject>
+                        <subject>loss</subject>
+                        <subject>music</subject>
+                    </subjectList>
+                </book>
+                <series>
+                    <seriesname>The Tea Rose</seriesname>
+                    <rating>5 - Favourite</rating>
+                    <notes>
+                        <p>I have all of these books as audio books as well.</p>
+                    </notes>
+                    <subjectList>
+                        <subject>historical fiction</subject>
+                        <subject>romance</subject>
+                        <subject>London</subject>
+                        <subject>1890-1918</subject>
+                    </subjectList>
+                    <book>
+                        <title>The Tea Rose</title>
+                        <location>Victoria</location>
+                        <lastRead>Summer 2017</lastRead>
+                        <timesRead>5</timesRead>
+                        <subjectList>
+                            <subject>New York</subject>
+                            <subject>Jack the Ripper</subject>
+                            <subject>tea</subject>
+                            <subject/>
+                        </subjectList>
+                    </book>
+                    <book>
+                        <title>The Winter Rose</title>
+                        <location>Victoria</location>
+                        <lastRead>Summer 2017</lastRead>
+                        <timesRead>5</timesRead>
+                        <subjectList>
+                            <subject>medical practice</subject>
+                            <subject>crime</subject>
+                            <subject>colonialism</subject>
+                            <subject>women's rights</subject>
+                            <subject>mountain climbing</subject>
+                        </subjectList>
+                    </book>
+                    <book>
+                        <title>The Wild Rose</title>
+                        <location>Victoria</location>
+                        <lastRead>Summer 2017</lastRead>
+                        <timesRead>5</timesRead>
+                        <subjectList>
+                            <subject>World War I</subject>
+                            <subject>spies</subject>
+                        </subjectList>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <!-- F -->
+        <author>
+            <authorName>
+                <firstName>Ken</firstName>
+                <lastName>Follet</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>The Pillars of the Earth</title>
+                    <rating>Unread</rating>
+                    <summary>This book is about the building of a cathedral in the fictional town of Kingsbridge, England. It is set in the middle of the 12th century. The book traces the development of Gothic architecture out of the preceding Romanesque architecture, and the fortunes of the Kingsbridge priory and village against the backdrop of historical events of the time. Source: "The Pillars of the Earth" summary (https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth) by Wikipedia is under a CC BY-SA 3.0 Unported Licence (https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                    <location>Victoria</location>
+
+                    <subjectList>
+                        <subject>historical fiction</subject>
+                        <subject>cathedral</subject>
+                        <subject>12th century</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <!-- G -->
+        <author>
+            <authorName>
+                <firstName>Diana</firstName>
+                <lastName>Gabaldon</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>Outlander</seriesname>
+                    <rating>5 - Favourite</rating>
+                    <summary>This series follows the life of Claire Beauchamp, who ends up travelling back in time to 16th century Scotland and falls in love with a Highland Scott. The series is also being made into a TV show, which is excellent.</summary>
+                    <subjectList>
+                        <subject>historical fiction</subject>
+                        <subject>Scotland</subject>
+                        <subject>time travel</subject>
+                        <subject>romance</subject>
+                    </subjectList>
+                    <book>
+                        <title>Outlander</title>
+                        <location>Victoria</location>
+                        <lastRead>July 2017</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                    <book>
+                        <title>Dragonfly in Amber</title>
+                        <location>Victoria</location>
+                        <lastRead>July 2017</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                    <book>
+                        <title>Voyager</title>
+                        <location>Victoria</location>
+                        <lastRead>July 2017</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                    <book>
+                        <title>Drums of Autumn</title>
+                        <notes>
+                            <p>I only got halfway through this book.</p>
+                        </notes>
+                        <location>Victoria</location>
+                    </book>
+                    <book>
+                        <title>The Firey Cross</title>
+                        <location>Victoria</location>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Michael</firstName>
+                <lastName>Grant</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>Gone</seriesname>
+                    <rating>4 - Really liked, would read again</rating>
+                    <summary/>
+                    <notes>
+                        <p>These books are ones that I recommend to dudes when they ask me for recommendations. They are written by a male author</p>
+                    </notes>
+                    <subjectList>
+                        <subject>science fiction</subject>
+                    </subjectList>
+                    <book>
+                        <title>Gone</title>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                    <book>
+                        <title>Hunger</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>Lies</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>Plague</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>Fear</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>Light</title>
+                        <location>Port Edward</location>
+                        <lastRead>May 2013</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                </series>
+                <series>
+                    <seriesname>BZRK</seriesname>
+                    <book>
+                        <title>BZRK</title>
+                        <rating>3 - Like, but probably won't read again</rating>
+                        <location>Victoria</location>
+                        <lastRead>February 2013</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <!-- H -->
+        <author>
+            <authorName>
+                <firstName>Eli</firstName>
+                <lastName>Horowitz</lastName>
+            </authorName>
+            <authorName>
+                <firstName>Kevin</firstName>
+                <lastName>Moffett</lastName>
+            </authorName>
+            <authorName>
+                <firstName>Matthew</firstName>
+                <lastName>Derby</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>The Silent History</title>
+                    <subtitle>A Novel</subtitle>
+                    <rating>Unread</rating>
+                    <location>Victoria</location>
+
+                    <subjectList>
+                        <subject>field reports</subject>
+                        <subject>testimonials</subject>
+                        <subject>children who don't speak</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <!-- L -->
+        <author>
+            <authorName>
+                <firstName>Stieg</firstName>
+                <lastName>Larsson</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>Millennium</seriesname>
+                    <subjectList>
+                        <subject>mystery</subject>
+                        <subject>thriller</subject>
+                        <subject>crime</subject>
+                    </subjectList>
+                    <book>
+                        <title>The Girl with the Dragon Tattoo</title>
+                        <rating>4 - Really liked, would read again</rating>
+                        <summary>Disgraced-journalist Mikael Blomkvist and troubled computer hacker Lisbeth Salander are hired by a prominant businessman to look into the disapearance of his grandniece 37 years ago.</summary>
+                        <location>Port Edward</location>
+                        <lastRead>2013</lastRead>
+                        <timesRead>3</timesRead>
+                        <subjectList>
+                            <subject>missing person</subject>
+                            <subject>investigation</subject>
+                        </subjectList>
+                    </book>
+                    <book>
+                        <title>The Girl Who Played with Fire</title>
+                        <rating>3 - Like, but probably won't read again</rating>
+                        <location>Port Edward</location>
+
+                        <lastRead>2013</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                    <book>
+                        <title>The Girl Who Kicked the Hornets' Nest</title>
+                        <rating>3 - Like, but probably won't read again</rating>
+                        <location>Victoria</location>
+                        <lastRead>2013</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>C. S.</firstName>
+                <lastName>Lewis</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>The Chronicles of Narnia</seriesname>
+                    <rating>4 - Really liked, would read again</rating>
+                    <summary>Set in the fictional realm of Narnia, a fantasy world of magic, mythical beasts, and talking animals, the series narrates the adventures of various children who play central roles in the unfolding history of that world.</summary>
+                    <notes>
+                        <p>This series is combined into one large book.</p>
+                    </notes>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                    </subjectList>
+                    <book>
+                        <title>The Lion, the Witch, and the Wardrobe</title>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                    <book>
+                        <title>Prince Caspian</title>
+                        <subtitle>The Return to Narnia</subtitle>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                    <book>
+                        <title>The Voyage of the Dawn Treader</title>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                    <book>
+                        <title>The Silver Chair</title>
+                        <notes>
+                            <p>I think this is my favourite of all of these books. But I would have to read it again to be sure.</p>
+                        </notes>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                    <book>
+                        <title>The Horse and His Boy</title>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                    <book>
+                        <title>The Magician's Nephew</title>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                    <book>
+                        <title>The Last Battle</title>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>1</timesRead>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>E.</firstName>
+                <lastName>Lockhart</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>We Were Liars</title>
+                    <rating>3 - Like, but probably won't read again</rating>
+                    <summary>We Were Liars focuses on the theme of self-acceptance, family morals, and the possibly-deadly consequences of one's mistakes. It is centered on the wealthy, seemingly perfect Sinclair family, who spend every summer gathered on their private island. However, not every summer is the same—when something happens to Cadence during the summer of her fifteenth year, the four "Liars" (Cadence, Johnny, Gat and Mirren) re-emerge two years later to prompt Cadence to remember the incident. Source: "We were Liars" summary (https://en.wikipedia.org/wiki/We_Were_Liars) by Wikipedia is used under a CC BY-SA 3.0 Unported licence (https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                    <notes>
+                        <p>This book was assigned by Karen Rivers in her class on Writing for Children and Young Adults (WRIT 406). Although I remember not really enjoying the book, the twist ending makes it all worth it. This book is heartbreaking and has the potential to make you cry.</p>
+                    </notes>
+                    <location>Victoria</location>
+                    <lastRead>September 2017</lastRead>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>Young Adult</subject>
+                        <subject>amnesia</subject>
+                        <subject>dysfuntional families</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <!-- M -->
+        <author>
+            <authorName>
+                <firstName>Lisa</firstName>
+                <lastName>Mantchev</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>Théâtre Illuminata </seriesname>
+                    <notes>
+                        <p>I read the first book in this series a long time ago. So I can't remember what happened. But I think it was a good one. I never ended up reading the second.</p>
+                    </notes>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                        <subject>theatre</subject>
+                        <subject>Shakespeare</subject>
+                    </subjectList>
+                    <book>
+                        <title>Eyes Like Stars</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>Perchance to Dream</title>
+                        <location>Port Edward</location>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Melina</firstName>
+                <lastName>Marchetta</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Finnikin of the Rock</title>
+                    <location>Victoria</location>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>George R. R.</firstName>
+                <lastName>Martin</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>A Song of Ice and Fire</seriesname>
+                    <notes>
+                        <p>I have read the first book and half of the second in this series. The story contains so many points of view and characters that it hard to follow. I'll try reading them all again when I have time to spend a lot of time reading. I want to be able to read the books before I watch the TV shows.</p>
+                    </notes>
+                    <book>
+                        <title>Game of Thrones</title>
+                        <location>Port Edward</location>
+                        <lastRead>May 2016</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                    <book>
+                        <title>A Clash of Kings</title>
+                        <location>Victoria</location>
+                    </book>
+                    <book>
+                        <title>A Storm of Swords</title>
+                        <location>Victoria</location>
+                    </book>
+                    <book>
+                        <title>A Feast for Crows</title>
+                        <location>Port Edward</location>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Paula</firstName>
+                <lastName>McLain</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Circling the Sun</title>
+                    <rating>Unread</rating>
+                    <notes>
+                        <p>Mom got me this book for Christmas in 2017.</p>
+                    </notes>
+                    <location>Victoria</location>
+
+                    <subjectList>
+                        <subject>Kenya</subject>
+                    </subjectList>
+                </book>
+                <book>
+                    <title>The Paris Wife</title>
+                    <rating>4 - Really liked, would read again</rating>
+                    <summary>This book follows Hadley, who falls in love with and marrys Ernest Hemmingway. They soon move to Paris, and the book follows the course of their relationship.</summary>
+                    <notes>
+                        <p>I got this book from Melanie Basso. The language of this book is beautiful, but the story is sad.</p>
+                    </notes>
+                    <location>Victoria</location>
+                    <lastRead>2012</lastRead>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>historical fiction</subject>
+                        <subject>Paris</subject>
+                        <subject>relationships</subject>
+                        <subject>Ernest Hemmingway</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <!-- O -->
+        <author>
+            <authorName>
+                <firstName>Mark Andrew</firstName>
+                <lastName>Olsen</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>The Watchers</title>
+                    <rating>Unread</rating>
+                    <location>Victoria</location>
+
+                    <subjectList>
+                        <subject>spiritual genealogy</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Kenneth</firstName>
+                <lastName>Opal</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Airborn</title>
+                    <rating>4 - Really liked, would read again</rating>
+                    <notes>
+                        <p>I really don't remember what happened in this book, but I remember liking it. I should reread it at some point.</p>
+                    </notes>
+                    <location>Victoria</location>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                        <subject>alternate history</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <!-- P -->
+        <author>
+            <authorName>
+                <firstName>Diana</firstName>
+                <lastName>Peterfreund</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>Killer Unicorns</seriesname>
+                    <book>
+                        <title>Rampant</title>
+                        <rating>4 - Really liked, would read again</rating>
+                        <summary>A story about a girl who learns to hunt unicorns.. killer unicorns.</summary>
+                        <notes>
+                            <p>I remember really liking this book. But I don't know if that's just because I was so young when I read it. I should read it again to refresh my memory.</p>
+                        </notes>
+                        <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                    <book>
+                        <title>Ascendant</title>
+                        <notes>
+                            <p>I don't think I ever read this. But I've had it for a long time.</p>
+                        </notes>
+                        <location>Port Edward</location>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Tamora</firstName>
+                <lastName>Pierce</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Tortal and Other Lands</title>
+                    <subtitle>Short Stories</subtitle>
+                    <rating>Unread</rating>
+                    <location>Port Edward</location>
+                </book>
+                <book>
+                    <title>Young Warriors</title>
+                    <rating>Unread</rating>
+                    <location>Port Edward</location>
+                </book>
+                <series>
+                    <seriesname>Beka Cooper: The Hunt Records</seriesname>
+                    <rating>5 - Favourite</rating>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                        <subject>police</subject>
+                        <subject>mystery</subject>
+                        <subject>crime</subject>
+                    </subjectList>
+                    <book>
+                        <title>Terrier</title>
+                        <notes>
+                            <p>I think I have this as an audiobook somewhere. Itunes?</p>
+                        </notes>
+                        <location>Port Edward</location>
+                        <lastRead>December 2016</lastRead>
+                        <timesRead>5</timesRead>
+                    </book>
+                    <book>
+                        <title>Bloodhound</title>
+                        <location>Victoria</location>
+                        <lastRead>June 2017</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                    <book>
+                        <title>Mastiff</title>
+                        <location>Victoria</location>
+                        <lastRead>June 2017</lastRead>
+                        <timesRead>2</timesRead>
+                    </book>
+                </series>
+                <series>
+                    <seriesname>The Song of the Lioness</seriesname>
+                    <rating>4 - Really liked, would read again</rating>
+                    <subjectList>
+                        <subject>female warriors</subject>
+                        <subject>knights</subject>
+                        <subject>medieval</subject>
+                        <subject>fantasy</subject>
+                    </subjectList>
+                    <book>
+                        <title>Alanna</title>
+                        <subtitle>The First Adventure</subtitle>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                    <book>
+                        <title>In the Hand of the Goddess</title>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                    <book>
+                        <title>The Woman Who Rides Like a Man</title>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                    <book>
+                        <title>Lioness Rampant</title>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                </series>
+                <series>
+                    <seriesname>The Immortals</seriesname>
+                    <rating>4 - Really liked, would read again</rating>
+                    <subjectList>
+                        <subject>magic</subject>
+                        <subject>fantasy</subject>
+                        <subject>animals</subject>
+                    </subjectList>
+                    <book>
+                        <title>Wild Magic</title>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                    <book>
+                        <title>Wolf-Speaker</title>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                    <book>
+                        <title>Emperor Mage</title>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                    <book>
+                        <title>The Realms of the Gods</title>
+                        <location>Unknown</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>3</timesRead>
+                    </book>
+                </series>
+                <series>
+                    <seriesname>Protector of the Small</seriesname>
+                    <rating>5 - Favourite</rating>
+                    <subjectList>
+                        <subject>knights</subject>
+                        <subject>medieval</subject>
+                        <subject>fantasy</subject>
+                        <subject>feminism</subject>
+                    </subjectList>
+                    <book>
+                        <title>First Test</title>
+                        <summary>Keladry of Mindelan, a young girl who becomes the first female to train as a knight ten years after King Jonathan first declared it legal. The novel tracks the first year of Keladry's training, during which she is only accepted on a probationary basis. Keladry must struggle to prove herself worthy to palace training master Wyldon of Cavall and her fellow page trainees. Source: "First Test" summary (https://en.wikipedia.org/wiki/First_Test) by Wikipedia is used under a CC BY-SA 3.0 Unported licence (https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                        <notes>
+                            <p>This book was a Christmas gift from mom. I think I was in grade 5
+                                (2005). It was the first Tamora Pierce book I ever read.</p>
+                        </notes>
+                        <location>Victoria</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>15</timesRead>
+                    </book>
+                    <book>
+                        <title>Page</title>
+                        <location>Victoria</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>15</timesRead>
+                        <subjectList>
+                            <subject>training and school</subject>
+                            <subject>bullies</subject>
+                            <subject>facing fears</subject>
+                        </subjectList>
+                    </book>
+                    <book>
+                        <title>Squire</title>
+                        <location>Victoria</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>15</timesRead>
+                    </book>
+                    <book>
+                        <title>Knight</title>
+                        <location>Victoria</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>15</timesRead>
+                        <subjectList>
+                            <subject>refugees</subject>
+                            <subject>war</subject>
+                            <subject>moral dillema</subject>
+                        </subjectList>
+                    </book>
+                </series>
+                <series>
+                    <seriesname>Daughter of the Lioness</seriesname>
+                    <rating>5 - Favourite</rating>
+                    <summary>All Ali has ever wanted to do is be a spy, but her father, the realm's spy master, forbids her. While out sailing one day, Ali is kidnapped and sold as a slave in another country. A trickster god takes an interest in her, and puts her to work in a disgraced nobel household where Ali becomes involved in a growing resistance movement.</summary>
+                    <subjectList>
+                        <subject>rebellion</subject>
+                        <subject>spies</subject>
+                        <subject>gods</subject>
+                        <subject>slavery</subject>
+                    </subjectList>
+                    <book>
+                        <title>Trickster's Choice</title>
+                        <location>Port Edward</location>
+                        <lastRead>December 2016</lastRead>
+                        <timesRead>6</timesRead>
+                    </book>
+                    <book>
+                        <title>Trickster's Queen</title>
+                        <location>Port Edward</location>
+                        <lastRead>December 2016</lastRead>
+                        <timesRead>6</timesRead>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <!-- R -->
+        <author>
+            <authorName>
+                <firstName>J. K.</firstName>
+                <lastName>Rowling</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>Harry Potter</seriesname>
+                    <rating>5 - Favourite</rating>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                        <subject>magic</subject>
+                        <subject>boarding school</subject>
+                    </subjectList>
+                    <book>
+                        <title>The Philosopher's Stone</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>The Chamber of Secrets</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>The Prisoner of Azkaban</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>The Goblet of Fire</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>The Order of the Phoenix</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>The Half-Blood Prince</title>
+                        <location>Port Edward</location>
+                    </book>
+                    <book>
+                        <title>The Deathly Hallows</title>
+                        <location>Port Edward</location>
+                    </book>
+                </series>
+            </works>
+        </author>
+        <!-- S -->
+        <author>
+            <authorName>
+                <firstName>Sherwood</firstName>
+                <lastName>Smith</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Crown Duel</title>
+                    <rating>4 - Really liked, would read again</rating>
+                    <summary>Insert here</summary>
+                    <location>Victoria</location>
+                    <lastRead>Unknown</lastRead>
+                    <timesRead>4</timesRead>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                        <subject>revolution</subject>
+                        <subject>resistance</subject>
+                        <subject>despotism</subject>
+                        <subject>romance</subject>
+                        <subject>kingdoms</subject>
+                        <subject>court life</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Aleksandr</firstName>
+                <lastName>Solzhenitsyn</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>One Day in the Life of Ivan Denisovisch</title>
+                    <rating>2 - Okay, but won't read again</rating>
+                    <summary>An account of one day in the life of a man who has been sentenced to a labour prison camp in Soviet Russia in the 1950s.</summary>
+                    <location>Victoria</location>
+                    <lastRead>March 2015</lastRead>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>historical fiction</subject>
+                        <subject>Soviet Union</subject>
+                        <subject>labour prison camp</subject>
+                        <subject>gulag</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Maggie</firstName>
+                <lastName>Stiefvater</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>The Scorpio Races</title>
+                    <notes>
+                        <p>I can't remember ever reading this book. But I've had it for a long time.</p>
+                    </notes>
+                    <location>Port Edward</location>
+                </book>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Bram</firstName>
+                <lastName>Stoker</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Dracula</title>
+                    <rating>2 - Okay, but won't read again</rating>
+                    <notes>
+                        <p>This book was assigned in my History of Vampires in Literature and Film class (GMST 454).</p>
+                    </notes>
+                    <location>Victoria</location>
+                    <lastRead>March 2016</lastRead>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>vampires</subject>
+                        <subject>horror</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <!-- T -->
+        <author>
+            <authorName>
+                <firstName>Angie</firstName>
+                <lastName>Thomas</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>The Hate U Give</title>
+                    <rating>4 - Really liked, would read again</rating>
+                    <summary>This book follows a protagonist drawn to activism after she witnesses the police shooting of her unarmed friend. Source "The Hate U Give" (https://en.wikipedia.org/wiki/The_Hate_U_Give) summary by Wikipedia is used under a CC BY-SA 3.0 Unported licence (https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                    <notes>
+                        <p>This book was assigned by Karen Rivers in her class on Writing for Children and Young Adults (WRIT 406).</p>
+                        <p>This book is moving and powerful. It deals with issues of police violence and the shootings of unarmed black men in the United States.</p>
+                    </notes>
+                    <location>Victoria</location>
+
+
+                    <lastRead>November 2017</lastRead>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>police violence</subject>
+                        <subject>black lives matter</subject>
+                        <subject>United States</subject>
+                        <subject>activism</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <!-- V -->
+        <author>
+            <authorName>
+                <firstName/>
+                <lastName>Voltaire</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Candide and Other Stories</title>
+                    <summary>A collection of Voltaire's "philosophical tales" that were published during the Englightenment.</summary>
+                    <notes>
+                        <p>This book was assigned by Dr. Walshaw in her History of Modern Europe class.</p>
+                    </notes>
+                    <location>Victoria</location>
+                    <lastRead>November 2013</lastRead>
+                    <timesRead>1</timesRead>
+                    <subjectList>
+                        <subject>phisosophy</subject>
+                        <subject>utopia</subject>
+                        <subject>enlightenment</subject>
+                        <subject>satire</subject>
+                    </subjectList>
+                </book>
+            </works>
+        </author>
+        <!-- W -->
+        <author>
+            <authorName>
+                <firstName>S. J.</firstName>
+                <lastName>Watson</lastName>
+            </authorName>
+            <works>
+                <book>
+                    <title>Before I Go to Sleep</title>
+                    <rating>3 - Like, but probably won't read again</rating>
+                    <summary>After an accident, a woman loses her ability to make new memories, and everytime she goes to sleep, the memories she's made that day dissapear. She begins to work with a psychologist to repair her memories, and begins to realize that her husband is lying to her.</summary>
+                    <notes>
+                        <p>The movie for this book is really good.</p>
+                    </notes>
+                    <location>Port Edward</location>
+                    <lastRead>2012</lastRead>
+                    <timesRead>1</timesRead>
+                </book>
+            </works>
+        </author>
+        <author>
+            <authorName>
+                <firstName>Scott</firstName>
+                <lastName>Westerfeld</lastName>
+            </authorName>
+            <works>
+                <series>
+                    <seriesname>Leviathan Trilogy</seriesname>
+                    <subjectList>
+                        <subject>dystopian</subject>
+                        <subject>steampunk</subject>
+                        <subject>alternate history</subject>
+                    </subjectList>
+                    <book>
+                        <title>Leviathan</title>
+                        <location>Port Edward</location>
+                    </book>
+                </series>
+            </works>
+        </author>
+    </fiction>
+    <nonFiction>
+        <head>Non-Fiction</head>
+        <subject>
+            <subjecthead>Creative Non-Fiction</subjecthead>
+            <author>
+                <authorName>
+                    <firstName>Amanda</firstName>
+                    <lastName>Lindhout</lastName>
+                </authorName>
+                <authorName>
+                    <firstName>Sara</firstName>
+                    <lastName>Corbett</lastName>
+                </authorName>
+                <works>
+                    <book>
+                        <title>A House in the Sky</title>
+                        <rating>3 - Like, but probably won't read again</rating>
+                        <summary>While working as a journalist in Somalia, Amanda and a man she is working with are captured and held for ransom for fifteen months. This book is a memoir of Amanda's life leading up to and including her time in captivity.</summary>
+                        <notes>
+                            <p>This book was extremely interesting, but hard to read at times. Grandpa Gray gave it to me. I don't think he read it, but Amanda grew up in Red Deer, Alberta, so he would have read about her story in the news.</p>
+                            <p>I lent this book out to Tokai before Christmas (2017). He still has it.</p>
+                        </notes>
+                        <location>Lent out</location>
+                        <lastRead>June 2016</lastRead>
+                        <timesRead>1</timesRead>
+                        <subjectList>
+                            <subject>memoir</subject>
+                            <subject>travel</subject>
+                            <subject>journalism</subject>
+                            <subject>captivity</subject>
+                            <subject>ransom</subject>
+                        </subjectList>
+                    </book>
+                </works>
+            </author>
+            <author>
+                <authorName>
+                    <firstName>Aspen</firstName>
+                    <lastName>Matis</lastName>
+                </authorName>
+                <works>
+                    <book>
+                        <title>A Girl in the Woods</title>
+                        <subtitle>A Memoir</subtitle>
+                        <summary>After a trumatic event, a woman decides to hike from Mexico to Canada.</summary>
+                        <notes>
+                            <p>I got this book from Taylor when she left to travel Europe.</p>
+                        </notes>
+                        <location>Victoria</location>
+                        <subjectList>
+                            <subject>memoir</subject>
+                            <subject>hiking</subject>
+                            <subject>trauma</subject>
+                        </subjectList>
+                    </book>
+                </works>
+            </author>
+            <author>
+                <authorName>
+                    <firstName>Haruki</firstName>
+                    <lastName>Murakami</lastName>
+                </authorName>
+                <works>
+                    <book>
+                        <title>Men Without Women</title>
+                        <subtitle>Stories</subtitle>
+                        <rating>Unread</rating>
+                        <summary>A collection of short stories by Japanese author Haruki Murakami, translated and published in English in 2017. The stories are about men who have lost their women, usually to other men or death. Source: "Men Without Women" (https://en.wikipedia.org/wiki/Men_Without_Women_(2017_short_story_collection) summary by Wikipedia is used under a CC BY-SA 3.0 Unported Licence (https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).</summary>
+                        <notes>
+                            <p>March 2018: Taylor gave me this book when she was downsizing to leave for Europe.</p>
+                        </notes>
+                        <location>Victoria</location>
+                        <subjectList>
+                            <subject>short stories</subject>
+                            <subject>gender</subject>
+                        </subjectList>
+                    </book>
+                </works>
+            </author>
+        </subject>
+        <subject>
+            <subjecthead>History</subjecthead>
+            <!-- C -->
+            <subsubject>
+                <subsubjecthead>Canada</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>Penny</firstName>
+                        <lastName>Bryden</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Canada</title>
+                            <subtitle>A Political Biography</subtitle>
+                            <notes>
+                                <p>This book was assigned by Dr. Dryden in her Canadian Political History class (HSTR 322B)</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>Canadian history</subject>
+                                <subject>politics</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>R.</firstName>
+                        <lastName>Francis</lastName>
+                    </authorName>
+                    <authorName>
+                        <firstName>Richard</firstName>
+                        <lastName>Jones</lastName>
+                    </authorName>
+                    <authorName>
+                        <firstName>Donald</firstName>
+                        <lastName>Smith</lastName>
+                    </authorName>
+                    <authorName>
+                        <firstName>Robert</firstName>
+                        <lastName>Wardhaugh</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Destinies</title>
+                            <subtitle>Canadian History Since Confederation</subtitle>
+                            <notes>
+                                <p>This book was assigned in Dr. Sitara's Canadian History: Post Confederation Class (HSTR 235B).</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>Canadian history since 1867</subject>
+                                <subject>survey text</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+            <!-- E -->
+            <subsubject>
+                <subsubjecthead>Europe</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>Albert S.</firstName>
+                        <lastName>Lindemann</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>A History of Modern Europe</title>
+                            <subtitle>From 1815 to the Present</subtitle>
+                            <notes>
+                                <p>This book was assigned by Dr. Saunders in his History of the Modern Middle East class. I ended up dropping it after a few weeks.</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>Modern European history</subject>
+                                <subject>survey text</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>John</firstName>
+                        <lastName>Merriman</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>A History of Modern Europe</title>
+                            <subtitle>From the Renaissance to the Age of Napoleon</subtitle>
+                            <notes>
+                                <p>This book was assigned in Dr. Walshaw's History of the Modern Middle East class (a first year course).</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>Modern European history</subject>
+                                <subject>survey text</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+            <!-- M -->
+            <subsubject>
+                <subsubjecthead>Middle East</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>Neil</firstName>
+                        <lastName>Caplan</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>The Israel-Palestine Conflict</title>
+                            <notes>
+                                <p>This book was assigned by Dr. Bunton in his History of the Israeli-Palestinian Conflict class (HSTR 378).</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>Israel</subject>
+                                <subject>Palestine</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Rajiv</firstName>
+                        <lastName>Chandrasekaran</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Imperial Life in the Emerald City</title>
+                            <subtitle>Inside Iraq's Green Zone</subtitle>
+                            <notes>
+                                <p>This book was assigned in a History of the Middle East after World War II class. I wrote a book review on this book.</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <lastRead>March 2015</lastRead>
+                            <timesRead>1</timesRead>
+                            <subjectList>
+                                <subject>United States</subject>
+                                <subject>Iraq</subject>
+                                <subject>occupation</subject>
+                                <subject>journalism</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>William</firstName>
+                        <lastName>Cleveland</lastName>
+                    </authorName>
+                    <authorName>
+                        <firstName>Martin</firstName>
+                        <lastName>Bunton</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>A History of the Modern Middle East</title>
+                            <notes>
+                                <p>This book was assigned by Dr. Bunton in his History of the Modern Middle East class (HSTR 277A).</p>
+                                <p>It offers a general survey of the history of the modern Middle East.</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>survey</subject>
+                                <subject>modern Middle East</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Rashid</firstName>
+                        <lastName>Khalidi</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Resurrecting Empire</title>
+                            <subtitle>Western Footprints and America's Perilous Path in the Middle East</subtitle>
+                            <location>Victoria</location>
+                            <subjectList>
+                                <subject>Iraq</subject>
+                                <subject>foreign intervention</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Sean</firstName>
+                        <lastName>McMeekin</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Ottoman Endgame</title>
+                            <subtitle>War, Revolution and the Making of the Modern Middle East, 1908-1923</subtitle>
+                            <notes>
+                                <p>This book was assigned by Dr. Wender in his History of Western Imperialism in the Middle East and North Africa class (HSTR 379).</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>Ottoman Empire</subject>
+                                <subject>World War I</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Timothy</firstName>
+                        <lastName>Mitchell</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Carbon Democracy</title>
+                            <subtitle>Political Power in the Age of Oil</subtitle>
+                            <summary>Mitchell aims to look at how the structures of the oil industry influence and inhibit the development of democracy in certain parts of the world.</summary>
+                            <notes>
+                                <p>This book was assigned by Dr. Wender in his History of Western Imperialism in the Middle East and North Africa class (HSTR 379). I wrote a reading analysis on this book.</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <lastRead>February 2018</lastRead>
+                            <timesRead>1</timesRead>
+                            <subjectList>
+                                <subject>oil</subject>
+                                <subject>democracy</subject>
+                                <subject>power</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Ilan</firstName>
+                        <lastName>Pappe</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>The Ethnic Cleansing of Palestine</title>
+                            <notes>
+                                <p>I bought this book when I was researching the history of the 1948 War and the creation of the Palestinian refugee crisis.</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <subjectList>
+                                <subject>War of 1948</subject>
+                                <subject>power dynamics</subject>
+                                <subject>new history</subject>
+                                <subject>creation of Israel</subject>
+                                <subject>Israeli-Palestinian Conflict</subject>
+                                <subject>Zionism</subject>
+                            </subjectList>
+                        </book>
+                        <book>
+                            <title>The Idea of Israel</title>
+                            <subtitle>A History of Power and Knowledge</subtitle>
+                            <notes>
+                                <p>I bought this book when I was researching the history of the 1948 War and the creation of the Palestinian refugee crisis.</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <subjectList>
+                                <subject>War of 1948</subject>
+                                <subject>power and knowledge</subject>
+                                <subject>new history</subject>
+                                <subject>creation of Israel</subject>
+                                <subject>Israeli-Palestinian Conflict</subject>
+                                <subject>Zionism</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+            <!-- N -->
+            <subsubject>
+                <subsubjecthead>Nationalism</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>Benedict</firstName>
+                        <lastName>Anderson</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Imagined Communities</title>
+                            <notes>
+                                <p>This book was assigned by Dr. Biddiscombe in his History of Nationalism seminar (HSTR 470).</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <lastRead>March 2018</lastRead>
+                            <subjectList>
+                                <subject>nationalism</subject>
+                                <subject>print capitalism</subject>
+                                <subject>modernity</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Ernest</firstName>
+                        <lastName>Gelner</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Nations and Nationalism</title>
+                            <notes>
+                                <p>This book was assigned by Dr. Biddiscombe in his History of Nationalism seminar (HSTR 470).</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <subjectList>
+                                <subject>nationalism</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Eric</firstName>
+                        <lastName>Hobsbawm</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Nations and Nationalism since 1780</title>
+                            <subtitle>Programme, Myth, Reality</subtitle>
+                            <notes>
+                                <p>This book was assigned by Dr. Biddiscombe in his History of Nationalism seminar (HSTR 470).</p>
+                            </notes>
+                            <location>Victoria</location>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Michael</firstName>
+                        <lastName>Ignatieff</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Blood and Belonging</title>
+                            <subtitle>Journeys into the New Nationalism</subtitle>
+                            <summary>An informal study on the apparent outbreak of nationalist conflicts around the end of the twentieth century. He looks specifically at Yugoslavia, Kurdistan, Northern Ireland, Quebec, Germany, and the former Soviet republics.</summary>
+                            <notes>
+                                <p>This book was assigned by Dr. Biddiscombe in his History of Nationalism seminar.</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <subjectList>
+                                <subject>nationalism</subject>
+                                <subject>separatist movments</subject>
+                                <subject>post-Cold War</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Elie</firstName>
+                        <lastName>Kedourie</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Nationalism</title>
+                            <notes>
+                                <p>This book was assigned by Dr. Biddiscombe in his History of Nationalism seminar (HSTR 470).</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <lastRead>February 2018</lastRead>
+                            <subjectList>
+                                <subject>nationalism</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+            <!-- U -->
+            <subsubject>
+                <subsubjecthead>United States</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>John Putnam</firstName>
+                        <lastName>Demos</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>The Unredeemed Captive</title>
+                            <subtitle>A Family Story from Early America</subtitle>
+                            <rating>3 - Like, but probably won't read again</rating>
+                            <location>Victoria</location>
+                            <lastRead>March 2016</lastRead>
+                            <timesRead>1</timesRead>
+                            <subjectList>
+                                <subject>micro-history</subject>
+                                <subject>religion</subject>
+                                <subject>indigenous history</subject>
+                                <subject>18th century</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+            <!-- W -->
+            <subsubject>
+                <subsubjecthead>World History</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>John</firstName>
+                        <lastName>Hall</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Apocalypse</title>
+                            <subtitle>From Antiquity to the Empire of Modernity</subtitle>
+                            <notes>
+                                <p>This book was assigned by Dr. Wender in his History of Modern Messianic Movements seminar (HSTR 470). I ended up droping the class but was unable to return this book due to damage from a tea spill.</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>religion</subject>
+                                <subject>revelation</subject>
+                                <subject>modernity</subject>
+                                <subject>world history</subject>
+                                <subject>sociology</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Prasannan</firstName>
+                        <lastName>Parthasarathi</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Why Europe Grew Rich and Asia Did Not</title>
+                            <subtitle>Global Economic Divergence, 1600-1850</subtitle>
+                            <notes>
+                                <p>This book was assigned by Dr. Beam the Honours History seminar that I took in third year.</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <lastRead>March 2016</lastRead>
+                            <timesRead>1</timesRead>
+                            <subjectList>
+                                <subject>India</subject>
+                                <subject>economy</subject>
+                                <subject>imperialism</subject>
+                                <subject>cotton</subject>
+                                <subject>textile industry</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>A. W.</firstName>
+                        <lastName>Purdue</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>The Second World War</title>
+                            <notes>
+                                <p>This book was assigned in a World War II history class that I took in first year.</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <subjectList>
+                                <subject>World War II</subject>
+                                <subject>survey text</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Janice</firstName>
+                        <lastName>Terry</lastName>
+                    </authorName>
+                    <authorName>
+                        <firstName>Jiu-Hwa Lo</firstName>
+                        <lastName>Upshur</lastName>
+                    </authorName>
+                    <authorName>
+                        <firstName>Michael</firstName>
+                        <lastName>Schroeder</lastName>
+                    </authorName>
+                    <authorName>
+                        <firstName>Richard</firstName>
+                        <lastName>Goff</lastName>
+                    </authorName>
+                    <authorName>
+                        <firstName>Walter</firstName>
+                        <lastName>Moss</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>The Twentieth Century and Beyond</title>
+                            <subtitle>A Global History</subtitle>
+                            <notes>
+                                <p>This book was assigned by Dr. Biddiscombe in his Twentieth Century World History class (HSTR 100).</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <subjectList>
+                                <subject>20th century world history</subject>
+                                <subject>survey text</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+        </subject>
+        <subject>
+            <subjecthead>Politics</subjecthead>
+            <subsubject>
+                <subsubjecthead>Indigenous Politics</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>Leanne Betasamosake</firstName>
+                        <lastName>Simpson, Editor</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Lighting the Eighth Fire</title>
+                            <subtitle>The Liberation, Resurgence, and Protection of Indigenous Nations</subtitle>
+                            <summary>A collection of essays by leading Indigenous scholars writing in a Canadian context.</summary>
+                            <notes>
+                                <p>This book was assigned in a political science class on Indigenous Politics in Canada. However, I ended up having to drop this class.</p>
+                            </notes>
+                            <location>Victoria</location>
+                            <subjectList>
+                                <subject>Indigenous politics</subject>
+                                <subject>land</subject>
+                                <subject>governance</subject>
+                                <subject>treatites</subject>
+                                <subject>environment</subject>
+                                <subject>economy</subject>
+                                <subject>social movements</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+        </subject>
+        <subject>
+            <subjecthead>Writing</subjecthead>
+            <subsubject>
+                <subsubjecthead>Creative Writing</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>Janet</firstName>
+                        <lastName>Burroway</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>Imaginative Writing</title>
+                            <subtitle>The Elements of Craft</subtitle>
+                            <notes>
+                                <p>This book was assigned in the Writ 100 class I took in first year.</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>fiction</subject>
+                                <subject>poetry</subject>
+                                <subject>drama</subject>
+                                <subject>creative non-fiction</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Cheryl B.</firstName>
+                        <lastName>Klein</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>The Magic Words</title>
+                            <subtitle>Writing Great Books for Children and Young Adults</subtitle>
+                            <notes>
+                                <p>This book was assigned in Karen Rivers Writing for Children and Young Adults (WRIT 406).</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>character development</subject>
+                                <subject>plot</subject>
+                                <subject>scene</subject>
+                                <subject>voice</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+            <subsubject>
+                <subsubjecthead>Professional Writing</subsubjecthead>
+                <author>
+                    <authorName>
+                        <firstName>James</firstName>
+                        <lastName>McCarten, Editor</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>The Canadian Press Stylebook</title>
+                            <subtitle>A Guide for Writers and Editors</subtitle>
+                            <notes>
+                                <p>The seventeenth edition.</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>news media</subject>
+                                <subject>communications</subject>
+                                <subject>style guide</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+                <author>
+                    <authorName>
+                        <firstName>Amy</firstName>
+                        <lastName>Einsohn</lastName>
+                    </authorName>
+                    <works>
+                        <book>
+                            <title>The Copyeditor's Handbook</title>
+                            <subtitle>A Guide for Book Publishing and Corporate Communications</subtitle>
+                            <notes>
+                                <p>This book was assigned in Susan Doyle's copyediting class (ENGL 303).</p>
+                            </notes>
+                            <location>Victoria</location>
+
+                            <subjectList>
+                                <subject>copyediting</subject>
+                                <subject>english grammar</subject>
+                                <subject>publishing</subject>
+                            </subjectList>
+                        </book>
+                    </works>
+                </author>
+            </subsubject>
+        </subject>
+    </nonFiction>
+</personalLibrary>
