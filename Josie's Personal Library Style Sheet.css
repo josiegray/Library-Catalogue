@@ -1,0 +1,203 @@
+
+/* block elements */
+
+personalLibrary,
+head1,
+intro,
+p,
+fiction,
+head,
+author,
+works,
+series,
+book,
+summary,
+location,
+rating,
+lastRead,
+timesRead,
+subjectList,
+notes,
+subjecthead,
+subsubjecthead,
+closing{
+    display: block;
+}
+subtitle, title {
+    display: inline;
+}
+
+/* Background */
+
+personalLibrary {
+    background-color: #505160;
+}
+book {
+    background-color: #eaece5;
+}
+series {
+    background-color: #4D546B;
+}
+/* Margins */
+author {
+    padding-top: 1em;
+}
+personalLibrary {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+book, series, intro, closing {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+head{
+    padding-bottom: 1em;
+}
+series book {
+    margin-left: 3em;
+}
+series {
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+summary, p {
+    padding-top: 0.5em;
+    padding-right: 0.5em;
+}
+location {
+    padding-top: 0.5em;
+}
+rating {
+    padding-top: 0.25em;
+}
+nonFiction head, fiction head {
+    margin-top: 3em;
+}
+series > rating, series > summary, series > subjectList, series > notes {
+    margin-left: 3em;
+}
+seriesname {
+    margin-left: 2.2em;
+}
+/* Text Align */
+head,
+subsubjecthead {
+    text-align: center;
+}
+head1 {
+    text-align: right;
+}
+title{
+    margin-top: 0.5em;
+      margin-left: 1em;
+}
+summary, location, rating, notes, lastRead, timesRead, subjectList{
+    margin-bottom: 0.25em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+/* Text Style */
+
+authorName {
+    font-weight: bold;
+    font-size: 150%;
+    color: #D9FF82;
+    font-family:monospace;
+}
+closing {
+    color: white;
+    font-family: monospace;
+    font-size: 120%;
+}
+head1 {
+    font-weight: bold;
+    font-size: 400%;
+    color: #aebd38;
+}
+head {
+    font-weight: bold;
+    font-size: 250%;
+    color: #CDE1E8;
+}
+intro {
+    font-size: 150%;
+    color: #CDE1E8;
+    font-family: monospace;
+}
+series > rating, series > notes, series > subjectList, series > summary {
+    color: #FFFFFF;
+}
+seriesname {
+    font-size: 170%;
+    color: #aebd38;
+    font-weight: bold;
+    font-style: italic;
+    font-family:monospace;
+}
+
+subjecthead {
+    font-size: 200%;
+    color: #f1f1f2;
+}
+subsubjecthead {
+    font-size: 175%;
+    color: #f1f1f2;
+}
+subjectList subject {
+    font-variant: small-caps;
+}
+title, subtitle{
+    color: #598234;
+    font-weight: bold;
+    font-size: 120%;
+    font-style: italic;
+}
+/* Borders */
+book, series {
+    border-style: double;
+    border-color: #aebd38;
+}
+
+/* Adding text */
+
+lastRead:before {
+    content: "Last read: ";
+    font-weight: bold;
+}
+location:before {
+    content: "Location of book: ";
+    font-weight: bold;
+}
+rating:before {
+    content: "Rating: ";
+    font-weight: bold;
+}
+seriesname:after {
+    content: " Series";
+    font-weight: bold;
+}
+subjectList:before {
+    content: "Subject(s):";
+    font-weight: bold;
+}
+subjectList subject:after {
+    content: ", ";
+    font-weight: bold;
+}
+
+timesRead:before {
+    content: "Number of times read: ";
+    font-weight: bold;
+}
+subtitle:before{
+    content: ": ";
+}
+lastName:after {
+    content: "; "
+}
+
