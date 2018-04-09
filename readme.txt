@@ -1,10 +1,10 @@
-Josie’s Library Catalogue
+Josieâ€™s Library Catalogue
 
 =========================
 
 
 The Project
-———————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 
 I started this project because I wanted a digital record of the books that I own. This project will allow me to track books that I own and information about them for quick reference. It will also allow me to easily share information about my books with other people, track the location of my books, and it will act as a backup in case anything ever happens to my books or I am forced to get rid of them at short notice. 
 
@@ -15,7 +15,7 @@ While this project resembles a library catalogue, I developed my own XML languag
 At this time, there are 125 books included in this list. I plan to add more. I also plan to expand on the information provided for each book to make it more interesting and personal. 
 
 Features
-————————
+â€”â€”â€”â€”â€”â€”â€”â€”
 This project contains three files: an .XSD schema, the .XML source file, and a .CSS file. 
 
 The XSD file defines rules for the XML language that I am using. It can be easily edited to add or remove fields. 
@@ -29,30 +29,30 @@ I have used CSS to ensure that all information is labelled and that visual marke
 To view and edit these files, you will need a text editor or Oxygen software (available for purchase and download at https://www.oxygenxml.com/).
 
 How to View the Library in Your Browser 
-———————————————————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 1. Download Josie's Personal Library.xml and Josie's Personal Library.css. 
 2. Associate the CSS file with the XML file:
 	2a. Paste the file location of the CSS file in the XML file. 
 	    (e.g. <?xml-stylesheet type="text/css" href="Final%20stylesheet2.css"?>). 
 	2b. Save.
-3. Right click on the .xml file and click “Open in browser" (e.g., Firefox, Chrome, Safari, Microsoft Edge). 
+3. Right click on the .xml file and click â€œOpen in browser" (e.g., Firefox, Chrome, Safari, Microsoft Edge). 
 
 Access Files and Contribute
-———————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 Source Code: https://github.com/josiegray/Library-Catalogue
 Issue Tracker: https://github.com/josiegray/Library-Catalogue/issues
 
 Contact
-———————
+â€”â€”â€”â€”â€”â€”â€”
 These files are maintained by Josie Gray. If you have any questions, comments, or issues, you can contact me at josie-g@outlook.com. 
 
 If you plan to share, use, or remix my work, I would love to know.
 
 License
-———————
+â€”â€”â€”â€”â€”â€”â€”
 The project copyrighted by Josie Gray (2018) and is licensed under a CC BY 4.0 International Licence (https://creativecommons.org/licenses/by/4.0/). 
 
-If sharing or remixing, or revising this work, please include the following attribution statement with anything you share: "'[File name]' (link to GitHub) by Josie Gray (https://github.com/josiegray) is under a CC BY 4.0 International Licence (https://creativecommons.org/licenses/by/4.0/)."
+If sharing or remixing, or revising this work, please include the following attribution statement with anything you share: "'[File name]' (https://github.com/josiegray/Library-Catalogue/) by Josie Gray (https://github.com/josiegray) is under a CC BY 4.0 International Licence (https://creativecommons.org/licenses/by/4.0/)."
  
 
 If you have modified my work, please include a description of the changes you made.
