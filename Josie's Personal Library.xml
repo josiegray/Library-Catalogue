@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="Final%20stylesheet2.css"?>
+<?xml-stylesheet type="text/css" href="file:/C:/Users/Josie%20Gray/Documents/School%20-%205th%20Year/ENGL%20406/Josie%27s%20Personal%20Library%20Style%20Sheet.css"?>
 <personalLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="final%20project%20schema2.xsd">
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/Josie%20Gray/Documents/School%20-%205th%20Year/ENGL%20406/Josie%27s%20Personal%20Library%20Schema.xsd">
     <head1>Josie's Library Catalogue</head1>
     <intro>
-        <p>I created this catalogue to keep track of my personal collection of books. It's divided into two sections: Fiction and Non-Fiction. All of my fictional books are organized by author, and all of my non-fictional books are organized into subjects and sub-subjects.</p>
-        <p>I created this repository as part of a final assignment for ENGL 407, a class on XML at the UNiversity of Victoria. I chose this project because I wanted a system that would allow me to keep track of the location of my books, the last time I read them, how many times I've read them, how I came to have these books, and anything else that might be relevant. As such, this is a very personal project. However, it will also allow me to easily share my collection with anyone who cares to know, and will act as a record in case I am forced to get rid of my books or if they are lost for any reason.</p>
+        <p>I created this catalogue to keep track of my personal collection of books. It's divided into two sections: Fiction and Non-Fiction. All of my fiction books are organized by author, and all of my non-fiction books are organized into subjects and sub-subjects.</p>
+        <p>I created this repository as part of a final assignment for ENGL 407, a class on XML at the University of Victoria. I chose this project because I wanted a system that would allow me to keep track of the location of my books, the last time I read them, how many times I've read them, how I came to have these books, and anything else that might be relevant. As such, this is a very personal project. However, it will also allow me to easily share my collection with anyone who cares to know, and will act as a record in case I am forced to get rid of my books or if they are lost for any reason.</p>
         <p>A copy of the XML, XSD, CSS, and README files that go with this project can be accessed from my GitHub account. You can find that at https://github.com/josiegray/Library-Catalogue.</p>
-        <p>This content is under a CC BY 4.0 International Licence. Under the terms of this licence, you can share, edit, remix, and revise this content as long as you provide attribution and describe any changes you may have made. "Josie's Library Catalogue" by Josie Gray is under a CC BY 4.0 International Licence.</p>
+        <p>This content is copyrighted by Josie Gray and is licensed under a CC BY 4.0 International Licence. Under the terms of this licence, you can share, edit, remix, and revise this content as long as you provide attribution and describe any changes you may have made.</p>
     </intro>
     <fiction>
         <head>Fiction</head>
@@ -29,7 +29,7 @@
                         <rating>5 - Favourite</rating>
                         <summary>Katsa is graced with the ability to kill. As the king's neice, she is used as a tool of the realm, diciplining nobles who resist the king's demands. However, her resistance to her uncle's demands slowly grows, and when she finally disobey's his orders, she is forced to go on the run.</summary>
                         <notes>
-                            <p>I have an audiobook for this book on Itunes.</p>
+                            <p>I have an audiobook for this book on iTunes.</p>
                         </notes>
                         <location>Victoria</location>
                         <lastRead>Unknown</lastRead>
@@ -37,7 +37,7 @@
                         <subjectList>
                             <subject>martial arts</subject>
                             <subject>survival</subject>
-                            <subject>rebillion</subject>
+                            <subject>rebellion</subject>
                             <subject>mind control</subject>
                         </subjectList>
                     </book>
@@ -90,6 +90,8 @@
                     <rating>3 - Like, but probably won't read again</rating>
                     <subjectList>
                         <subject>fantasy</subject>
+                        <subject>demons</subject>
+                        <subject>magical realism</subject>
                     </subjectList>
                     <book>
                         <title>City of Bones</title>
@@ -152,6 +154,8 @@
                     <summary>Katniss Everdeen lives in the future, post-apocalyptic nation of Panem in North America. The Capitol, a highly advanced metropolis, exercises political control over the rest of the nation. The Hunger Games is an annual event in which one boy and one girl aged 12–18 from each of the twelve districts surrounding the Capitol are selected by lottery to compete in a televised battle to the death.</summary>
                     <subjectList>
                         <subject>dystopian</subject>
+                        <subject>rebellion</subject>
+                        <subject>archery</subject>
                     </subjectList>
                     <book>
                         <title>The Hunger Games</title>
@@ -200,7 +204,7 @@
                     <title>Revolution</title>
                     <rating>4 - Really liked, would read again</rating>
                     <notes>
-                        <p>This was one of my favourite books growing up. "Mad I may be, but I will never be convenient.</p>
+                        <p>This was one of my favourite books growing up. "Mad I may be, but I will never be convenient."</p>
                     </notes>
                     <location>Port Edward</location>
                     <lastRead>Unknown</lastRead>
@@ -216,6 +220,7 @@
                 <series>
                     <seriesname>The Tea Rose</seriesname>
                     <rating>5 - Favourite</rating>
+                    <summary>This series follows the lives of multiple members of a large family in London during the late 19th and early 20th century. The books are historical romances and quite dramatic. But I like the characters, the historical detail is interesting, and the story is nevery dull.</summary>
                     <notes>
                         <p>I have all of these books as audio books as well.</p>
                     </notes>
@@ -234,7 +239,6 @@
                             <subject>New York</subject>
                             <subject>Jack the Ripper</subject>
                             <subject>tea</subject>
-                            <subject/>
                         </subjectList>
                     </book>
                     <book>
@@ -258,6 +262,7 @@
                         <subjectList>
                             <subject>World War I</subject>
                             <subject>spies</subject>
+                            <subject>Middle East</subject>
                         </subjectList>
                     </book>
                 </series>
@@ -316,8 +321,7 @@
             <works>
                 <series>
                     <seriesname>Outlander</seriesname>
-                    <rating>5 - Favourite</rating>
-                    <summary>This series follows the life of Claire Beauchamp, who ends up travelling back in time to 16th century Scotland and falls in love with a Highland Scott. The series is also being made into a TV show, which is excellent.</summary>
+                    <summary>This series follows the life of Claire Beauchamp, who ends up travelling back in time to 18th century Scotland and falls in love with a Highland Scott. The series is also being made into a TV show, which is excellent.</summary>
                     <subjectList>
                         <subject>historical fiction</subject>
                         <subject>Scotland</subject>
@@ -326,31 +330,57 @@
                     </subjectList>
                     <book>
                         <title>Outlander</title>
+                        <rating>5 - Favourite</rating>
                         <location>Victoria</location>
                         <lastRead>July 2017</lastRead>
                         <timesRead>2</timesRead>
+                        <subjectList>
+                            <subject>World War II</subject>
+                            <subject>medicine</subject>
+                            <subject>captivity</subject>
+                            <subject>sadism</subject>
+                            <subject>witch</subject>
+                        </subjectList>
                     </book>
                     <book>
                         <title>Dragonfly in Amber</title>
+                        <rating>4 - Really liked, would read again</rating>
                         <location>Victoria</location>
                         <lastRead>July 2017</lastRead>
                         <timesRead>1</timesRead>
+                        <subjectList>
+                            <subject>Paris</subject>
+                            <subject>Bonnie Prince Charlie</subject>
+                            <subject>court life</subject>
+                            <subject>rebellion</subject>
+                            <subject>Culloden</subject>
+                        </subjectList>
                     </book>
                     <book>
                         <title>Voyager</title>
+                        <rating>4 - Really liked, would read again</rating>
                         <location>Victoria</location>
                         <lastRead>July 2017</lastRead>
                         <timesRead>1</timesRead>
+                        <subjectList>
+                            <subject>ships</subject>
+                            <subject>Jamaica</subject>
+                        </subjectList>
                     </book>
                     <book>
                         <title>Drums of Autumn</title>
+                        <rating>Didn't finish</rating>
                         <notes>
-                            <p>I only got halfway through this book.</p>
+                            <p>I only got halfway through this book. I need to go back and finish it.</p>
                         </notes>
                         <location>Victoria</location>
+                        <subjectList>
+                            <subject>American colonies</subject>
+                        </subjectList>
                     </book>
                     <book>
                         <title>The Firey Cross</title>
+                        <rating>Unread</rating>
                         <location>Victoria</location>
                     </book>
                 </series>
@@ -365,9 +395,9 @@
                 <series>
                     <seriesname>Gone</seriesname>
                     <rating>4 - Really liked, would read again</rating>
-                    <summary/>
+                    <summary>One day, everyone over the age of 16 dissappears from a small town. With no adults, a bunch of kids are left to figure out how to survive as they slowly run out of food and develop strange powers.</summary>
                     <notes>
-                        <p>These books are ones that I recommend to dudes when they ask me for recommendations. They are written by a male author</p>
+                        <p>These books are ones that I recommend to dudes when they ask me for recommendations. They are written by a male author and have a male main character. </p>
                     </notes>
                     <subjectList>
                         <subject>science fiction</subject>
@@ -381,18 +411,26 @@
                     <book>
                         <title>Hunger</title>
                         <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
                     </book>
                     <book>
                         <title>Lies</title>
                         <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
                     </book>
                     <book>
                         <title>Plague</title>
                         <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
                     </book>
                     <book>
                         <title>Fear</title>
                         <location>Port Edward</location>
+                        <lastRead>Unknown</lastRead>
+                        <timesRead>2</timesRead>
                     </book>
                     <book>
                         <title>Light</title>
@@ -409,6 +447,10 @@
                         <location>Victoria</location>
                         <lastRead>February 2013</lastRead>
                         <timesRead>1</timesRead>
+                        <subjectList>
+                            <subject>science fiction</subject>
+                            <subject>nano bots</subject>
+                        </subjectList>
                     </book>
                 </series>
             </works>
@@ -466,6 +508,7 @@
                         <subjectList>
                             <subject>missing person</subject>
                             <subject>investigation</subject>
+                            <subject>journalism</subject>
                         </subjectList>
                     </book>
                     <book>
@@ -560,7 +603,7 @@
                 <book>
                     <title>We Were Liars</title>
                     <rating>3 - Like, but probably won't read again</rating>
-                    <summary>We Were Liars focuses on the theme of self-acceptance, family morals, and the possibly-deadly consequences of one's mistakes. It is centered on the wealthy, seemingly perfect Sinclair family, who spend every summer gathered on their private island. However, not every summer is the same—when something happens to Cadence during the summer of her fifteenth year, the four "Liars" (Cadence, Johnny, Gat and Mirren) re-emerge two years later to prompt Cadence to remember the incident.</summary>
+                    <summary>We Were Liars focuses on the theme of self-acceptance, family morals, and the possibly deadly consequences of one's mistakes. It is centered on the wealthy, seemingly perfect Sinclair family, who spend every summer gathered on their private island. However, not every summer is the same—when something happens to Cadence during the summer of her fifteenth year, the four "Liars" (Cadence, Johnny, Gat and Mirren) re-emerge two years later to prompt Cadence to remember the incident.</summary>
                     <notes>
                         <p>This book was assigned by Karen Rivers in her class on Writing for Children and Young Adults (WRIT 406). Although I remember not really enjoying the book, the twist ending makes it all worth it. This book is heartbreaking and has the potential to make you cry.</p>
                     </notes>
@@ -611,7 +654,10 @@
             <works>
                 <book>
                     <title>Finnikin of the Rock</title>
-                    <location>Victoria</location>
+                    <notes>
+                        <p>I don't remember if I ever read this book. But I know that my mom really loves it.</p>
+                    </notes>
+                    <location>Port Edward</location>
                     <subjectList>
                         <subject>fantasy</subject>
                     </subjectList>
@@ -627,16 +673,23 @@
                 <series>
                     <seriesname>A Song of Ice and Fire</seriesname>
                     <notes>
-                        <p>I have read the first book and half of the second in this series. The story contains so many points of view and characters that it hard to follow. I'll try reading them all again when I have time to spend a lot of time reading. I want to be able to read the books before I watch the TV shows.</p>
+                        <p>I have read the first book and half of the second in this series. The story contains so many points of view and characters that it is hard to follow. I'll try reading them all again when I have time to spend a lot of time reading. I want to be able to read the books before I watch the TV shows.</p>
                     </notes>
+                    <subjectList>
+                        <subject>fantasy</subject>
+                        <subject>court life</subject>
+                        <subject>intrigue</subject>
+                    </subjectList>
                     <book>
                         <title>Game of Thrones</title>
+                        <rating>3 - Like, but probably won't read again</rating>
                         <location>Port Edward</location>
                         <lastRead>May 2016</lastRead>
                         <timesRead>2</timesRead>
                     </book>
                     <book>
                         <title>A Clash of Kings</title>
+                        <rating>Didn't finish</rating>
                         <location>Victoria</location>
                     </book>
                     <book>
@@ -715,7 +768,7 @@
                     <title>Airborn</title>
                     <rating>4 - Really liked, would read again</rating>
                     <notes>
-                        <p>I really don't remember what happened in this book, but I remember liking it. I should reread it at some point.</p>
+                        <p>I really don't remember what happened in this book, but I remember liking it. I should re-read it at some point.</p>
                     </notes>
                     <location>Victoria</location>
                     <timesRead>1</timesRead>
@@ -748,6 +801,7 @@
                     </book>
                     <book>
                         <title>Ascendant</title>
+                        <rating>Unread</rating>
                         <notes>
                             <p>I don't think I ever read this. But I've had it for a long time.</p>
                         </notes>
@@ -776,11 +830,16 @@
                 <series>
                     <seriesname>Beka Cooper: The Hunt Records</seriesname>
                     <rating>5 - Favourite</rating>
+                    <summary>Beka Cooper is a rookie with the law-enforcing Provost's Guard, commonly known as "the Provost's Dogs." These books describe her time in training, as she becomes of the the most well-respected "dogs" that police the crime-ridden Lower City.</summary>
+                    <notes>
+                        <p>This series is one of my all time favourites. I don't think I'll ever get tired of re-reading it.</p>
+                    </notes>
                     <subjectList>
                         <subject>fantasy</subject>
                         <subject>police</subject>
                         <subject>mystery</subject>
                         <subject>crime</subject>
+                        <subject>dogs</subject>
                     </subjectList>
                     <book>
                         <title>Terrier</title>
@@ -806,7 +865,8 @@
                 </series>
                 <series>
                     <seriesname>The Song of the Lioness</seriesname>
-                    <rating>4 - Really liked, would read again</rating>
+                    <rating>5 - Favourite</rating>
+                    <summary>Because women are not allowed to become knights, Alanna must hide her sex for multiple years as she trains for knighthood.</summary>
                     <subjectList>
                         <subject>female warriors</subject>
                         <subject>knights</subject>
@@ -842,6 +902,7 @@
                 <series>
                     <seriesname>The Immortals</seriesname>
                     <rating>4 - Really liked, would read again</rating>
+                    <summary>Daine has always had a connection with animals, but she soon comes to discover that this connection is magical.</summary>
                     <subjectList>
                         <subject>magic</subject>
                         <subject>fantasy</subject>
@@ -883,10 +944,9 @@
                     </subjectList>
                     <book>
                         <title>First Test</title>
-                        <summary>Keladry of Mindelan, a young girl who becomes the first female to train as a knight ten years after King Jonathan first declared it legal. The novel tracks the first year of Keladry's training, during which she is only accepted on a probationary basis. Keladry must struggle to prove herself worthy to palace training master Wyldon of Cavall and her fellow page trainees.</summary>
+                        <summary>Keladry of Mindelan is the first female to train as a knight since it became legal. The novel tracks the first year of Keladry's training, during which she is only accepted on a probationary basis. Keladry must struggle to prove herself worthy to palace training master Wyldon of Cavall and her fellow page trainees.</summary>
                         <notes>
-                            <p>This book was a Christmas gift from mom. I think I was in grade 5
-                                (2005). It was the first Tamora Pierce book I ever read.</p>
+                            <p>This book was a Christmas gift from mom. I think I was in grade 5 (2005). It was the first Tamora Pierce book I ever read.</p>
                         </notes>
                         <location>Victoria</location>
                         <lastRead>Unknown</lastRead>
@@ -894,6 +954,7 @@
                     </book>
                     <book>
                         <title>Page</title>
+                        <summary>In the last three years of Kel's page training, she faces multiple hardships as many continue to try to get her to quit training to become a knight.</summary>
                         <location>Victoria</location>
                         <lastRead>Unknown</lastRead>
                         <timesRead>15</timesRead>
@@ -905,12 +966,14 @@
                     </book>
                     <book>
                         <title>Squire</title>
+                        <summary>Kel spends her squire years under Raoul, Head of the King's Own.</summary>
                         <location>Victoria</location>
                         <lastRead>Unknown</lastRead>
                         <timesRead>15</timesRead>
                     </book>
                     <book>
                         <title>Knight</title>
+                        <summary>Now a knight, Kel is put in charge of running a refugee camp close to a war. When her camp is raided and her people are taken, Kel disobeys orders to try to get them back.</summary>
                         <location>Victoria</location>
                         <lastRead>Unknown</lastRead>
                         <timesRead>15</timesRead>
@@ -1002,7 +1065,6 @@
                 <book>
                     <title>Crown Duel</title>
                     <rating>4 - Really liked, would read again</rating>
-                    <summary>Insert here</summary>
                     <location>Victoria</location>
                     <lastRead>Unknown</lastRead>
                     <timesRead>4</timesRead>
@@ -1141,7 +1203,7 @@
                 <book>
                     <title>Before I Go to Sleep</title>
                     <rating>3 - Like, but probably won't read again</rating>
-                    <summary>After an accident, a woman loses her ability to make new memories, and every time she goes to sleep, the memories she's made that day disappear. She begins to work with a psychologist to repair her memories, and begins to realize that her husband is lying to her.</summary>
+                    <summary>After an accident, a woman loses her ability to make new memories, and every time she goes to sleep, the memories she's made that day disappear. She begins to work with a psychologist to repair her memories, and slowly realizes that her husband is hiding things from her.</summary>
                     <notes>
                         <p>The movie for this book is really good.</p>
                     </notes>
@@ -1216,6 +1278,7 @@
                     <book>
                         <title>A Girl in the Woods</title>
                         <subtitle>A Memoir</subtitle>
+                        <rating>Unread</rating>
                         <summary>After a traumatic event, a woman decides to hike from Mexico to Canada.</summary>
                         <notes>
                             <p>I got this book from Taylor when she left to travel Europe.</p>
@@ -1300,7 +1363,7 @@
                             <title>Destinies</title>
                             <subtitle>Canadian History Since Confederation</subtitle>
                             <notes>
-                                <p>This book was assigned in Dr. Sitara's Canadian History: Post Confederation Class (HSTR 235B).</p>
+                                <p>This book was assigned in Dr. Sitara's Canadian History: Post Confederation class (HSTR 235B).</p>
                             </notes>
                             <location>Victoria</location>
 
